@@ -6,6 +6,11 @@ export default function Joke(props) {
      * - Create state `isShown` (boolean, default to `false`)
      * - Add a button that toggles the value back and forth
      */
+
+    /**
+     * Challenge:
+     * Only display the punchline paragraph if `isShown` is true
+     */
         
     return (
         <div>
